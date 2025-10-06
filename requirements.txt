@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-community
+langchain-huggingface
+langchain-groq
+huggingface-hub>=0.23.0
+faiss-cpu
+tiktoken
+sentence-transformers
+pypdf
+pytz
