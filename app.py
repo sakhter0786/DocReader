@@ -26,16 +26,16 @@ st.markdown("""
     .stButton > button {
         background-color: #4CAF50;
         color: white;
-        border-radius: 5px;
+        border-radius: 10px;
     }
     .stTextInput > div > div > input {
         background-color: #ffffff;
         border: 1px solid #cccccc;
-        border-radius: 5px;
+        border-radius: 10px;
     }
     .chat-message {
-        padding: 10px;
-        border-radius: 10px;
+        padding: 20px;
+        border-radius: 15px;
         margin: 5px 0;
         max-width: 80%;
     }
